@@ -1,0 +1,5 @@
+c:\users\edžnan\documents\visual studio 2015\Projects\hangman\hangman\bin\Debug\hangman.exe.config
+c:\users\edžnan\documents\visual studio 2015\Projects\hangman\hangman\bin\Debug\hangman.exe
+c:\users\edžnan\documents\visual studio 2015\Projects\hangman\hangman\bin\Debug\hangman.pdb
+c:\users\edžnan\documents\visual studio 2015\Projects\hangman\hangman\obj\Debug\hangman.exe
+c:\users\edžnan\documents\visual studio 2015\Projects\hangman\hangman\obj\Debug\hangman.pdb
